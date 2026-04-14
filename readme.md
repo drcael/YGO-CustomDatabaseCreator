@@ -25,19 +25,20 @@ YGO Custom Database Creator is a program developed as part of the 1001 Tools Pro
 ## 🚀 Quick Start & Installation
 
 ### Option 1: Run Compiled Release (Fastest)
-[cite_start]Quick Start and Run / Click on the “Release” section and the marked area to download the compiled executable file from the Release section. [cite: 17]
-* **Download:** `[LINK_BURAYA]`
+Quick Start and Run / Click on the “Release” section and the marked area to download the compiled executable file from the Release section. [cite: 17]
+* **Download:** `[(https://github.com/drcael/YGO-CustomDatabaseCreator/releases/tag/v1.0.0.1)]`
 
 ### Option 2: Run from Source Code
-[cite_start]Download, edit, and run the source code. [cite: 18] [cite_start]You can download the ZIP file directly from the download section, extract it, and get started.. [cite: 18] Or, follow the steps below:
+Download, edit, and run the source code. You can download the ZIP file directly from the download section, extract it, and get started..
+Or, follow the steps below:
 
-1.  [cite_start]**Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. [cite: 19] [cite_start]Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. [cite: 20] [cite_start]ardından terminalinize işletim sisteminize göre şu kodları girerek kaynak kodları indirin: [cite: 21]
+1. **Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code: 
     ```bash
     git clone [https://github.com/drcael/YGO-CustomDatabaseCreator](https://github.com/drcael/YGO-CustomDatabaseCreator)
     cd YGO-CustomDatabaseCreator
     ```
-2.  [cite_start]**Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. [cite: 22] [cite_start]You can download and install the appropriate version for your system from this link: `[LINK_BURAYA]` [cite: 22]
-3.  [cite_start]**Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal. [cite: 23] [cite_start]Or use the lu commands to download them all at once by adding the .txt file. [cite: 23]
+2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: `[(https://www.python.org/downloads/)]`
+3.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
     ```bash
     pip install -r requirements.txt
     ```
@@ -46,13 +47,13 @@ YGO Custom Database Creator is a program developed as part of the 1001 Tools Pro
     ```bash
     python main.py
     ```
-5.  **Editing:**You can download Notepad++, a lightweight text editor, or VSCode, an advanced IDE, to edit files. [cite: 24]
+5.  **Editing:**You can download Notepad++, a lightweight text editor, or VSCode, an advanced IDE, to edit files.
 
 ---
 
 ## 🌐 The 1001 Tools Ecosystem
 
-[cite_start]This program was developed as part of the 1001 Tools project.  [cite_start]Click here to learn more about the project and view other applications: `[LINK_BURAYA]` [cite: 32]
+This program was developed as part of the 1001 Tools project.Click here to learn more about the project and view other applications: `[https://github.com/drcael/1001Tools]`
 
 [cite_start]For information on the program’s features, how it works, and the user guide, please visit `[LINK_HERE]`. [cite: 25] Explore our other integrated tools:
 * [cite_start]**Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: `[LINK_HERE]` [cite: 25]
