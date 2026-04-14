@@ -2,7 +2,6 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0.1_Final-blue.svg)
 ![License](https://img.shields.io/badge/license-Open_Source-green.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![Database](https://img.shields.io/badge/db.svg)]
 
 > **YGO Custom Database Creator v1.0.0.1 final version.**
 > It is a utility developed to create custom databases that can be used in personal projects, websites, applications, and for creating bulk card sets. Additionally, this program can be used to create databases compatible with the YGO Bulk MSE-Set Cards Generator & Editor and the YGO Card Library Tool.
