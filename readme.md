@@ -34,7 +34,7 @@ Or, follow the steps below:
 
 1. **Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code: 
     ```bash
-    git clone [https://github.com/drcael/YGO-CustomDatabaseCreator](https://github.com/drcael/YGO-CustomDatabaseCreator)
+    git clone https://github.com/drcael/YGO-CustomDatabaseCreator
     cd YGO-CustomDatabaseCreator
     ```
 2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: https://www.python.org/downloads/
