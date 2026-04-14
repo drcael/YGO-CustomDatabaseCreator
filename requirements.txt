@@ -1,0 +1,8 @@
+customtkinter
+packaging
+requests
+beautifulsoup4
+cloudscraper
+pandas
+odfpy
+deep_translator
