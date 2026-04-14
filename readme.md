@@ -55,7 +55,7 @@ Or, follow the steps below:
     python main.py
     ```
 
-8.  **Editing:** You can download [Notepad++ (https://notepad-plus-plus.org/downloads/)]' , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
+8.  **Editing:** You can download [Notepad++](https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
 
 ---
 
