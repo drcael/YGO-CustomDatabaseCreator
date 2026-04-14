@@ -6,7 +6,7 @@
 > **YGO Custom Database Creator v1.0.0.1 final version.**
 > It is a utility developed to create custom databases that can be used in personal projects, websites, applications, and for creating bulk card sets. Additionally, this program can be used to create databases compatible with the YGO Bulk MSE-Set Cards Generator & Editor and the YGO Card Library Tool.
 
-YGO Custom Database Creator is a program developed as part of the 1001 Tools Project. The program and its source code are open-source; they can be modified, developed, and customized. [cite_start]It is free and open-source. [cite: 31] [cite_start]You can make any changes you want to the program and rebuild it according to your own ideas. [cite: 31]
+YGO Custom Database Creator is a program developed as part of the 1001 Tools Project. The program and its source code are open-source; they can be modified, developed, and customized. It is free and open-source. You can make any changes you want to the program and rebuild it according to your own ideas.
 
 ---
 
@@ -25,8 +25,8 @@ YGO Custom Database Creator is a program developed as part of the 1001 Tools Pro
 ## 🚀 Quick Start & Installation
 
 ### Option 1: Run Compiled Release (Fastest)
-Quick Start and Run / Click on the “Release” section and the marked area to download the compiled executable file from the Release section. [cite: 17]
-* **Download:** `[(https://github.com/drcael/YGO-CustomDatabaseCreator/releases/tag/v1.0.0.1)]`
+Quick Start and Run / Click on the “Release” section and the marked area to download the compiled executable file from the Release section.
+* **Download:** `https://github.com/drcael/YGO-CustomDatabaseCreator/releases/tag/v1.0.0.1`
 
 ### Option 2: Run from Source Code
 Download, edit, and run the source code. You can download the ZIP file directly from the download section, extract it, and get started..
@@ -37,7 +37,7 @@ Or, follow the steps below:
     git clone [https://github.com/drcael/YGO-CustomDatabaseCreator](https://github.com/drcael/YGO-CustomDatabaseCreator)
     cd YGO-CustomDatabaseCreator
     ```
-2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: `[https://www.python.org/downloads/]`
+2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: `https://www.python.org/downloads/`
 3.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
     ```bash
     pip install -r requirements.txt
@@ -53,11 +53,11 @@ Or, follow the steps below:
 
 ## 🌐 The 1001 Tools Ecosystem
 
-This program was developed as part of the 1001 Tools project.Click here to learn more about the project and view other applications: `[https://github.com/drcael/1001Tools]`
+This program was developed as part of the 1001 Tools project.Click here to learn more about the project and view other applications: `https://github.com/drcael/1001Tools`
 
-[cite_start]For information on the program’s features, how it works, and the user guide, please visit `[LINK_HERE]`. [cite: 25] Explore our other integrated tools:
-* [cite_start]**Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: `[LINK_HERE]` [cite: 25]
-* [cite_start]**Card Generation:** You can automatically generate your desired card sets using the YGO-MSE Bulk Creator and Editor program with your databases. [cite: 27] [cite_start]You can access the program by clicking here: `[LINK_HERE]` [cite: 27]
+For information on the program’s features, how it works, and the user guide, please visit `[LINK_HERE]`.  Explore our other integrated tools:
+* **Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: `https://github.com/drcael/misc/tree/ygo`
+* **Card Generation:** You can automatically generate your desired card sets using the YGO-MSE Bulk Creator and Editor program with your databases. You can access the program by clicking here: `https://github.com/drcael/YGO-MSE-Bulk-Set-Creator-and-Editor`
 * [cite_start]**Artwork:** You can find and download card artwork from the links here: `[LINK_HERE]` [cite: 28]
 * [cite_start]**Library Assistant:** With the offline Card Library Assistant program, you can use the entire card database on your computer. [cite: 28] [cite_start]To access the application: `[LINK_HERE]` [cite: 29]
 * [cite_start]**MTG Tools:** You can download the MTG database creator here `[LINK_HERE]` and the MTG-Mse bulk creator program here `[LINK_HERE]`. [cite: 29]
