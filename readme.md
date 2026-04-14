@@ -37,7 +37,7 @@ Or, follow the steps below:
     git clone [https://github.com/drcael/YGO-CustomDatabaseCreator](https://github.com/drcael/YGO-CustomDatabaseCreator)
     cd YGO-CustomDatabaseCreator
     ```
-2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: `[(https://www.python.org/downloads/)]`
+2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: `[https://www.python.org/downloads/]`
 3.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
     ```bash
     pip install -r requirements.txt
