@@ -1,0 +1,64 @@
+name: Automatic Compilation (Windows, Mac, Linux)
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: ${{ matrix.os }} Compiling
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [windows-latest, ubuntu-latest, macos-latest]
+
+    steps:
+      - name: Download Codes
+        uses: actions/checkout@v4
+
+      - name: Install Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install the necessary Linux libraries
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-tk
+
+      - name: Install Python Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller
+          pip install pillow
+
+      - name: Compile Folder with PyInstaller
+        run: |
+          pyinstaller --noconfirm --onedir --windowed --icon="icon.png" --name="YGO Custom Database Creator" main.py
+
+      - name: Compile Portable with PyInstaller
+        run: |
+          pyinstaller --noconfirm --onefile --windowed --icon="icon.png" --name="YGO Custom Database Creator-Portable" main.py
+
+      - name: Convert outputs to Zip format (Windows)
+        if: runner.os == 'Windows'
+        run: Compress-Archive -Path dist\YGO` Custom` Database` Creator\* -DestinationPath YGO-CustomDatabaseCreator-Windows-Folder.zip
+
+      - name: Convert outputs to Tar.gz format (Mac & Linux)
+        if: runner.os != 'Windows'
+        run: tar -czvf YGO-CustomDatabaseCreator-${{ runner.os }}-Folder.tar.gz -C dist/"YGO Custom Database Creator" .
+
+      - name: Upload to GitHub Releases section
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            YGO-CustomDatabaseCreator-Windows-Folder.zip
+            YGO-CustomDatabaseCreator-*-Folder.tar.gz
+            dist/YGO Custom Database Creator-Portable.exe
+            dist/YGO Custom Database Creator-Portable
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
