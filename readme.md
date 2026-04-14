@@ -79,7 +79,7 @@ Explore our other integrated tools:
 * **Yu-Gi-Oh! Copyright:** The copyright holders of Yu-Gi-Oh! and all related media and content are as follows:
 * ©1996 KAZUKI TAKAHASHI, ©2020 Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
 * **Data Source:** [Yugipedia](https://yugipedia.com/) site data is licensed under the Creative Commons Attribution Share Alike license.
-* **Project Copyright:** © 2026 - 1001 Tools Projects, Burhan Erdemir (drcael), E&C Softwares [Subject to open-source terms of use].
+* **Project Copyright:** © 2026 - 1001 Projects, Burhan Erdemir (drcael), E&C Softwares [Subject to open-source terms of use].
 
 ---
 
