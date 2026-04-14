@@ -32,25 +32,30 @@ Quick Start and Run / Click on the “Release” section and the marked area to 
 Download, edit, and run the source code. You can download the ZIP file directly from the download section, extract it, and get started..
 Or, follow the steps below:
 
-1. **Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code: 
+1. **Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code:
+
     ```bash
     git clone https://github.com/drcael/YGO-CustomDatabaseCreator
     cd YGO-CustomDatabaseCreator
     ```
-2.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: https://www.python.org/downloads/
-3.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
+3.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: https://www.python.org/downloads/
+4.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
+
      ```bash
     pip install customtkinter, requests, beautifulsoup4, cloudscraper, pandas, deep_translator
     ```
     ```bash
     pip install -r requirements.txt
     ```
+
     *(Required Libraries: customtkinter, requests, beautifulsoup4, cloudscraper, pandas, deep_translator)*
-5.  **Run the Application:**
+6.  **Run the Application:**
+
     ```bash
     python main.py
     ```
-6.  **Editing:**You can download Notepad++ (https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
+
+8.  **Editing:**You can download Notepad++ (https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
 
 ---
 
