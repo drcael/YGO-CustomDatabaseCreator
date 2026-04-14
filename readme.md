@@ -61,14 +61,13 @@ Or, follow the steps below:
 
 ## 🌐 The 1001 Tools Ecosystem
 
-This program was developed as part of the 1001 Tools project.Click here to learn more about the project and view other applications: https://github.com/drcael/1001Tools
+This program was developed as part of the 1001 Tools project. [Click here](https://github.com/drcael/1001Tools) to learn more about the project and view other applications.
 
-For information on the program’s features, how it works, and the user guide, please visit https:drcael.github.io/1001ToolsProject.  
 Explore our other integrated tools:
-* **Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: https://github.com/drcael/misc/tree/ygo
-* **Card Generation:** You can automatically generate your desired card sets using the YGO-MSE Bulk Creator and Editor program with your databases. You can access the program by clicking here: https://github.com/drcael/YGO-MSE-Bulk-Set-Creator-and-Editor
-* **Artwork:** You can find and download card artwork from links here: https://www.deviantart.com/gold3nb3ar, https://www.deviantart.com/nhociory, https://yugipedia.com/wiki/Card_Gallery
-* **Library Assistant:** With the offline Card Library Assistant program, you can use the entire card database on your computer.To access the application: https://github.com/drcael/YGO-OfflineCardLibraryTool
+* **Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: [YGOSources](https://github.com/drcael/misc/tree/ygo)
+* **Card Generation:** You can automatically generate your desired card sets using the [YGO-MSE Bulk Creator and Editor](https://github.com/drcael/YGO-MSE-Bulk-Set-Creator-and-Editor) with your databases.
+* **Artwork:** You can find and download card artwork from here: [Gol3nb3ar from Deviantart](https://www.deviantart.com/gold3nb3ar), [nhociory from Deviantart](https://www.deviantart.com/nhociory), [YugiPedia Card Gallery](https://yugipedia.com/wiki/Card_Gallery)
+* **Library Assistant:** With the [Offline Card Library Tool](https://github.com/drcael/YGO-OfflineCardLibraryTool), you can use the entire card database on your computer.
 * **MTG Tools:** You can download the [MTG database creator](https://github.com/drcael/MTG-CustomDatabaseCreator) and the [MTG-MSE bulk creator](https://github.com/drcael/MTG-MSE-Bulk-Set-Creator-and-Editor).
 
 ---
