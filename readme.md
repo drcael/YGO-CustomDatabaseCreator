@@ -26,19 +26,19 @@ YGO Custom Database Creator is a program developed as part of the 1001 Tools Pro
 
 ### Option 1: Run Compiled Release (Fastest)
 Quick Start and Run / Click on the “Release” section and the marked area to download the compiled executable file from the Release section.
-* **Download:** https://github.com/drcael/YGO-CustomDatabaseCreator/releases/tag/v1.0.0.1
+* **Download:** [Releases](https://github.com/drcael/YGO-CustomDatabaseCreator/releases/tag/v1.0.0.1)
 
 ### Option 2: Run from Source Code
 Download, edit, and run the source code. You can download the ZIP file directly from the download section, extract it, and get started..
 Or, follow the steps below:
 
-1. **Clone the Repository:**If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code:
+1. **Clone the Repository:** If you want to download the source code directly, download and install the Git application from this link. Right-click on your working directory and run the terminal, or enter the directory path in an open terminal and press Enter.. Then, enter the following codes into your terminal, according to your operating system, to download the source code:
 
     ```bash
     git clone https://github.com/drcael/YGO-CustomDatabaseCreator
     cd YGO-CustomDatabaseCreator
     ```
-3.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: https://www.python.org/downloads/
+3.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: [Download Python](https://www.python.org/downloads/)
 4.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
 
      ```bash
@@ -55,7 +55,7 @@ Or, follow the steps below:
     python main.py
     ```
 
-8.  **Editing:** You can download [Notepad++](https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
+8.  **Editing:** You can download [Notepad++](https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or [VSCode](https://code.visualstudio.com/Download), an advanced IDE, to edit files.
 
 ---
 
@@ -69,7 +69,7 @@ Explore our other integrated tools:
 * **Card Generation:** You can automatically generate your desired card sets using the YGO-MSE Bulk Creator and Editor program with your databases. You can access the program by clicking here: https://github.com/drcael/YGO-MSE-Bulk-Set-Creator-and-Editor
 * **Artwork:** You can find and download card artwork from links here: https://www.deviantart.com/gold3nb3ar, https://www.deviantart.com/nhociory, https://yugipedia.com/wiki/Card_Gallery
 * **Library Assistant:** With the offline Card Library Assistant program, you can use the entire card database on your computer.To access the application: https://github.com/drcael/YGO-OfflineCardLibraryTool
-* **MTG Tools:** You can download the MTG database creator here https://github.com/drcael/MTG-CustomDatabaseCreator and the MTG-MSE bulk creator program here MTG-MSE-Bulk-Set-Creator-and-Editor.
+* **MTG Tools:** You can download the [MTG database creator](https://github.com/drcael/MTG-CustomDatabaseCreator) and the [MTG-MSE bulk creator](https://github.com/drcael/MTG-MSE-Bulk-Set-Creator-and-Editor).
 
 ---
 
@@ -77,8 +77,9 @@ Explore our other integrated tools:
 
 * **User Responsibility:** You are solely responsible for the use of this program, as well as for downloading and using the content created and the pre-prepared data provided. By using the program, you are deemed to have accepted all responsibilities and terms.
 ***Third-Party Terms:** Ensure that you comply with the terms of use of third-party websites and providers.  Please respect the copyrights of third-party resources used in the program; do not use the program for unauthorized or malicious purposes.
-* **Yu-Gi-Oh! Copyright:** The copyright holders of Yu-Gi-Oh! and all related media and content are as follows: ©1996 KAZUKI TAKAHASHI, ©2020 Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
-* **Data Source:** Yugipedia site data is licensed under the Creative Commons Attribution Share Alike license. To access the site: https://yugipedia.com/
+* **Yu-Gi-Oh! Copyright:** The copyright holders of Yu-Gi-Oh! and all related media and content are as follows:
+* ©1996 KAZUKI TAKAHASHI, ©2020 Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
+* **Data Source:** [Yugipedia](https://yugipedia.com/) site data is licensed under the Creative Commons Attribution Share Alike license.
 * **Project Copyright:** © 2026 - 1001 Tools Projects, Burhan Erdemir (drcael), E&C Softwares [Subject to open-source terms of use].
 
 ---
