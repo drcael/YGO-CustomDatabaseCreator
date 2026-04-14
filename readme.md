@@ -47,7 +47,7 @@ Or, follow the steps below:
     ```bash
     python main.py
     ```
-5.  **Editing:**You can download Notepad++, a lightweight text editor, or VSCode, an advanced IDE, to edit files.
+5.  **Editing:**You can download Notepad++ (https://notepad-plus-plus.org/downloads/) , a lightweight text editor, or VSCode (https://code.visualstudio.com/Download), an advanced IDE, to edit files.
 
 ---
 
@@ -55,22 +55,23 @@ Or, follow the steps below:
 
 This program was developed as part of the 1001 Tools project.Click here to learn more about the project and view other applications: https://github.com/drcael/1001Tools
 
-For information on the program’s features, how it works, and the user guide, please visit `[LINK_HERE]`.  Explore our other integrated tools:
+For information on the program’s features, how it works, and the user guide, please visit https:drcael.github.io/1001ToolsProject.  
+Explore our other integrated tools:
 * **Pre-prepared Databases:** To view and download pre-prepared databases and files, go to this address: https://github.com/drcael/misc/tree/ygo
 * **Card Generation:** You can automatically generate your desired card sets using the YGO-MSE Bulk Creator and Editor program with your databases. You can access the program by clicking here: https://github.com/drcael/YGO-MSE-Bulk-Set-Creator-and-Editor
-* [cite_start]**Artwork:** You can find and download card artwork from the links here: `[LINK_HERE]` [cite: 28]
-* [cite_start]**Library Assistant:** With the offline Card Library Assistant program, you can use the entire card database on your computer. [cite: 28] [cite_start]To access the application: `[LINK_HERE]` [cite: 29]
-* [cite_start]**MTG Tools:** You can download the MTG database creator here `[LINK_HERE]` and the MTG-Mse bulk creator program here `[LINK_HERE]`. [cite: 29]
+* **Artwork:** You can find and download card artwork from links here: https://www.deviantart.com/gold3nb3ar, https://www.deviantart.com/nhociory, https://yugipedia.com/wiki/Card_Gallery
+* **Library Assistant:** With the offline Card Library Assistant program, you can use the entire card database on your computer.To access the application: https://github.com/drcael/YGO-OfflineCardLibraryTool
+* **MTG Tools:** You can download the MTG database creator here https://github.com/drcael/MTG-CustomDatabaseCreator and the MTG-MSE bulk creator program here MTG-MSE-Bulk-Set-Creator-and-Editor.
 
 ---
 
 ## ⚖️ Disclaimer & Copyright
 
-* [cite_start]**User Responsibility:** You are solely responsible for the use of this program, as well as for downloading and using the content created and the pre-prepared data provided. [cite: 26] By using the program, you are deemed to have accepted all responsibilities and terms.
-* [cite_start]**Third-Party Terms:** Ensure that you comply with the terms of use of third-party websites and providers.  Please respect the copyrights of third-party resources used in the program; do not use the program for unauthorized or malicious purposes.
+* **User Responsibility:** You are solely responsible for the use of this program, as well as for downloading and using the content created and the pre-prepared data provided. By using the program, you are deemed to have accepted all responsibilities and terms.
+***Third-Party Terms:** Ensure that you comply with the terms of use of third-party websites and providers.  Please respect the copyrights of third-party resources used in the program; do not use the program for unauthorized or malicious purposes.
 * **Yu-Gi-Oh! Copyright:** The copyright holders of Yu-Gi-Oh! and all related media and content are as follows: ©1996 KAZUKI TAKAHASHI, ©2020 Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
 * **Data Source:** Yugipedia site data is licensed under the Creative Commons Attribution Share Alike license. To access the site: https://yugipedia.com/
-* **Project Copyright:** © 2026 - 1001 Projects, Burhan Erdemir (drcael), E&C Softwares [Subject to open-source terms of use].
+* **Project Copyright:** © 2026 - 1001 Tools Projects, Burhan Erdemir (drcael), E&C Softwares [Subject to open-source terms of use].
 
 ---
 
