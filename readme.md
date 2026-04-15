@@ -75,7 +75,7 @@ Explore our other integrated tools:
 ## ⚖️ Disclaimer & Copyright
 
 * **User Responsibility:** You are solely responsible for the use of this program, as well as for downloading and using the content created and the pre-prepared data provided. By using the program, you are deemed to have accepted all responsibilities and terms.
-***Third-Party Terms:** Ensure that you comply with the terms of use of third-party websites and providers.  Please respect the copyrights of third-party resources used in the program; do not use the program for unauthorized or malicious purposes.
+* **Third-Party Terms:** Ensure that you comply with the terms of use of third-party websites and providers.  Please respect the copyrights of third-party resources used in the program; do not use the program for unauthorized or malicious purposes.
 * **Yu-Gi-Oh! Copyright:** The copyright holders of Yu-Gi-Oh! and all related media and content are as follows:
 * ©1996 KAZUKI TAKAHASHI, ©2020 Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
 * **Data Source:** [Yugipedia](https://yugipedia.com/) site data is licensed under the Creative Commons Attribution Share Alike license.
