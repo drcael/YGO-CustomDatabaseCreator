@@ -86,6 +86,10 @@ https://github.com/drcael/misc/blob/ygo/all_default_csv.zip
 https://github.com/drcael/misc/blob/ygo/tcg_default.zip
 -TCG Default Database-
 
+-TCG Speed Duel Default Database-
+https://github.com/drcael/misc/blob/ygo/tcgspeedduel_default.zip
+-TCG Speed Duel Default Database-
+
 -OCG Default Database-
 https://github.com/drcael/misc/blob/ygo/ocg_default.zip
 -OCG Default Database-
@@ -97,6 +101,10 @@ https://github.com/drcael/misc/blob/ygo/tcg+ocg_default.zip
 -Rush Duel Default Database-
 https://github.com/drcael/misc/blob/ygo/rushduel_default.zip
 -Rush Duel Default Database-
+
+-Other (Token+Skill) Database-
+https://github.com/drcael/misc/blob/ygo/other_default.zip
+-Other (Token+Skill) Database-
 
 -Anime Default Database-
 https://github.com/drcael/misc/blob/ygo/anime_default.zip
@@ -122,6 +130,10 @@ https://github.com/drcael/misc/blob/ygo/all_translated_csv.zip
 https://github.com/drcael/misc/blob/ygo/tcg_translated.zip
 -TCG Missing Translated Database-
 
+-TCG Speed Duel Missing Translated Database-
+https://github.com/drcael/misc/blob/ygo/tcgspeedduel_translated.zip
+-TCG Speed Duel Missing Translated Database-
+
 -OCG Missing Translated Database-
 https://github.com/drcael/misc/blob/ygo/ocg_translated.zip
 -OCG Missing Translated Database-
@@ -133,6 +145,10 @@ https://github.com/drcael/misc/blob/ygo/tcg+ocg_translated.zip
 -Rush Duel Missing Translated Database-
 https://github.com/drcael/misc/blob/ygo/rushduel_translated.zip
 -Rush Duel Missing Translated Database-
+
+-Other Missing Translated (Token+Skill) Database-
+https://github.com/drcael/misc/blob/ygo/other_default.zip
+-Other Missing Translated (Token+Skill) Database-
 
 -Anime Missing Translated Database-
 https://github.com/drcael/misc/blob/ygo/anime_translated.zip
