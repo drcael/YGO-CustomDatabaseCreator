@@ -1,7 +1,15 @@
 # 🃏 YGO Custom Database Creator
 ![Version](https://img.shields.io/badge/version-v1.0.0.1_Final-blue.svg)
 ![License](https://img.shields.io/badge/license-Open_Source-green.svg)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+
 
 > **YGO Custom Database Creator v1.0.0.1 final version.**
 > It is a utility developed to create custom databases that can be used in personal projects, websites, applications, and for creating bulk card sets. Additionally, this program can be used to create databases compatible with the YGO Bulk MSE-Set Cards Generator & Editor and the YGO Card Library Tool.
@@ -40,6 +48,7 @@ Or, follow the steps below:
     ```
 3.  **Prerequisites:** For the code to run, Python 3.10 or a later version must be installed on your system. You can download and install the appropriate version for your system from this link: [Download Python](https://www.python.org/downloads/)
 4.  **Install Dependencies:** Next, use the following command to install the necessary libraries on your terminal.Or use the lu commands to download them all at once by adding the .txt file.
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
 
      ```bash
     pip install customtkinter, requests, beautifulsoup4, cloudscraper, pandas, deep_translator
@@ -87,19 +96,17 @@ Explore our other integrated tools:
 
 You can follow us on the social media accounts and community platforms listed below to show your support and see our new projects.
 
-* **GitHub:** [https://github.com/drcael](https://github.com/drcael)
+* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [https://github.com/drcael](https://github.com/drcael)
 * **1001 Tools Web:** [https://drcael.github.io/projects/1001tools/](https://drcael.github.io/projects/1001tools/)
-* **YouTube:** [https://www.youtube.com/@UnnecessaryTools](https://www.youtube.com/@UnnecessaryTools)
-* **X (Twitter):** [https://x.com/drcael](https://x.com/drcael)
+* [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) [https://www.youtube.com/@UnnecessaryTools](https://www.youtube.com/@UnnecessaryTools)
 
 ### ☕ Support the Development
 You can safely support us via content creator support platforms through one-time donations or monthly subscriptions. 
-* **Patreon:** [https://patreon.com/burhanerdemir](https://patreon.com/burhanerdemir)
-* **BuyMeACoffee:** [https://buymeacoffee.com/drcael](https://buymeacoffee.com/drcael)
-* **Ko-Fi:** [https://ko-fi.com/drcael](https://ko-fi.com/drcael)
+* [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#) [https://patreon.com/burhanerdemir](https://patreon.com/burhanerdemir)
+* [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) [https://buymeacoffee.com/drcael](https://buymeacoffee.com/drcael)
+* [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#) [https://ko-fi.com/drcael](https://ko-fi.com/drcael)
 
 To provide financial support—by sending a one-time crypto donation—you can use the crypto wallets listed below. 
-* **BTC:** `15QuhaXt8THsSSfxT7MEcXXWLm4x34xuUT`
-* **USDT (TRC20):** `TVoghyRBr4QzCWXdkF2x3kp3ZPYMxGyxiA`
-* **TON / USDT (TON):** `UQDErOQrvEJkc1v_S3GajShKeAOcf-tpu_YwI_ys1PWk9isD`
+* [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) `15QuhaXt8THsSSfxT7MEcXXWLm4x34xuUT`
+* [![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#) `TVoghyRBr4QzCWXdkF2x3kp3ZPYMxGyxiA`
 *(For more network and wallet addresses, check the Support tab within the program.)*
